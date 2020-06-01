@@ -1,2 +1,2 @@
-window.endpointAir = "https://api.airtable.com/v0/appVfoHCF6WlqGa5j/"
+window.endpointAir = "https://api.airtable.com/v0/appZCmpBv4MLazDB2/"
 window.apiAirToken = "keyglNbri5MSexPRy";
